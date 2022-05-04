@@ -21,6 +21,13 @@ The problem is a supervised learning problem since the dataset contains the medi
 Mean Absolute Error (MAE) and Root mean squared error (RMSE) are two of the most common metrics used to measure accuracy for continuous variables. RMSE is the performance measure used to evaluate the model because it is the typical performance measure for regression. It gives an idea of how much error the system typically makes in its predictions, with higher weight for larger errors. 
 Even though the RMSE is generally the preferred performance measure for regression tasks, in some contexts you may prefer to use another measure. For example, suppose that there are many outlier districts. In that case, you may consider using the Mean Absolute Error (MAE). 
 
+# Project Implementation
+The Project was implemented on KNIME, the Konstanz Information Miner. KNIME is free and open-source data analytics, reporting and integration platform. It is easy to learn and offers a platform for drag-and-drop analytics, machine learning and statistics; no code required! 
+# Installation
+To install KNIME, please go to: 
+https://www.knime.com/downloads/download-knime 
+
+
 # Modeling
 # Training and Evaluating on the Training Set
 After framing the problem, the data was explored, a training set and a test set was sampled, and the data was prepared for Machine Learning models.
