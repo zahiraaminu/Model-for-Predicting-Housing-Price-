@@ -9,7 +9,7 @@ The purpose of this project is to build a model of housing prices in California 
 
 The model would learn from the data and be able to predict the median housing price in any district, given all other attributes.
 
-The CRISP-DM framework was used and the project was split according to the 6 phases of the framework:  
+The CRISP-DM framework was used, and the project was split according to the 6 phases of the framework:  
 1. Business Understanding
 2. Data Understanding
 3. Data Preparation
@@ -48,8 +48,6 @@ One way to do hyperparameter tuning would be to fiddle with the hyperparameter m
 
 # Model Evaluation
 At the evaluation phase, I evaluated the best model on the test set. The RMSE on the test data is approximately 59.128. The performance will usually be slightly worse than what we measured using Cross-Validation if you did a lot of hyperparameter tuning (because your system ends up fine-tuned to perform well on the validation data and will likely not perform as well on unknown datasets). When this happens, we must resist the temptation to tweak the hyperparameters to make the numbers look good on the test set; the improvements would be unlikely to generalize to new data.
-
-
  
 # Deployment 
 Below is the Project Workflow
