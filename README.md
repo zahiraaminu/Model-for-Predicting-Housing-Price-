@@ -27,9 +27,6 @@ The Project was implemented on KNIME, the Konstanz Information Miner. KNIME is f
 To install KNIME, please go to: 
 https://www.knime.com/downloads/download-knime 
 
-
-
-
 # Modeling
 # Training and Evaluating on the Training Set
 After framing the problem, the data was explored, a training set and a test set was sampled, and the data was prepared for Machine Learning models.
