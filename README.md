@@ -1,7 +1,7 @@
 # Model-for-Predicting-Housing-Price-
 
 # Title 
-Model for Predicting Housing Price
+Model for Predicting Housing Prices
 
 
 # Description
